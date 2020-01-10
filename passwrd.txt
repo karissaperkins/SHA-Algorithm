@@ -1,0 +1,5 @@
+username,id,password_hash
+jjones,1234,dd3a8eb2892b6380d53f9defea3c70bd3a1e10cf
+msmith,5678,dc68db2fcc09a6aca8db2eefba025f6461c31115
+epickle,4321,2a14da4ad8952d069b9cc4abca60077b63435d94
+qwarthog,7777,096392411c601d3017486dff9de7a5f78d3c9caa
